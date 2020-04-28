@@ -1,7 +1,6 @@
 
-# 
-
-Send email - nodeJS Samples.
+# NodeJS Example 
+How to send an Email with an attachment file.
 
 ## Installation
 
